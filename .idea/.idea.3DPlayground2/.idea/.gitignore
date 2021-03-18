@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.3DPlayground2.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\Kema\Unity\3DPlayground2\.idea\.idea.3DPlayground2\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
